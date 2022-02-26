@@ -7,6 +7,8 @@ This algorithm applies a potential field method to our control strategy to arran
 
 
 **The dynamical equation of the Agents**, which is a double integrator, is considered as follow:
+![1](https://user-images.githubusercontent.com/93844522/155850189-b5af05eb-c695-44d4-9da6-2679389a52eb.png)
+
 ```math
 M*x" + B*x' = f_x - k*x' 
 M*y" + B*y' = f_y - k*y'
