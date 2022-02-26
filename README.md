@@ -11,4 +11,4 @@ This algorithm applies a potential field method to our control strategy to arran
 M*x" + B*x' = f_x - k*x' 
 M*y" + B*y' = f_y - k*y'
 ```
-```M: the mass, B: the damper coefficient, f: the control force, k_d: a coefficient considered to control the transient response of the robot```
+```M: the mass, B: the damper coefficient, f: the control force, k: a coefficient considered to control the transient response of the robot```
