@@ -7,8 +7,28 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Swarm-Formation-Control
-(Will be completed soon!)
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <i align="center"> In The Name Of God </i>
+
+  <h3 align="center">Swarm Mobile Robots Firmation Control</h3>
+
+  <p align="center">
+    Modeling, Planning and Nonlinear Control Techniques For Autonomous Vehicles 🎛️🚘
+    <br />
+    <b> System Kinematics and Dynamics Model and Controller Design </b>
+    <br />
+    <a href="https://github.com/HabibNaeimi/Swarm-Mobile-Robots-Formation"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/HabibNaeimi/Swarm-Mobile-Robots-Formation//issues">Report Bug & Request Feature</a>
+  </p>
+</div>
+
+
+
+## Swarm-Formation-Control
 This repository contains Simulink implementation of "A Decentralized Cooperative Control Scheme With Obstacle Avoidance for a Team of Mobile Robots" by Hamed Rezaee and Farzaneh Abdollahi. You can find the article using this links: [IEEE](https://ieeexplore.ieee.org/document/6451251)
 
 ## Algorithm
