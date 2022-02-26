@@ -137,5 +137,6 @@ To prove that this algorithm is robust in changing the number of agents suddenly
 <!-- References -->
 ## References
 [1] *[H. Rezaee, and F. Abdollahi, “A Decentralized Cooperative Control Scheme with Obstacle Avoidance for a Team of Mobile Robots,” IEEE Transactions on Industrial Electronics, vol. 61, pp. 347-354, January 2014.](https://ieeexplore.ieee.org/document/6451251)*
+
 [2] *[V. Bajaj, and S. Rao, “Autonomous Shape Formation and Morphing in a Dynamic Environment by a Swarm of Robots,” Proceedings of The 19th International Conference On Autonomous Agents and Multiagent Systems, pp. 1765-1767, May 2020.](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1765.pdf)*
 <p align="right">(<a href="#top">back to top</a>)</p>
