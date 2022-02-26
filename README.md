@@ -114,6 +114,8 @@ Following figure shows the path of each agent from the initial point to its poin
 
 ![10](https://github.com/HabibNaeimi/Swarm-Mobile-Robots-Formation/blob/958b4278b6e43488f689c7d65c41bcb2a988f8a3/Results/Fixed%20Formation.jpg)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Dynamic Formation
 After achieving formation, we transfer the virtual leader so the robots can move following that. The discrete trajectory allows us to maintain the formation along the path.
 
@@ -125,6 +127,7 @@ Results of simulation:
 
 ![image7](https://github.com/HabibNaeimi/Swarm-Mobile-Robots-Formation/blob/958b4278b6e43488f689c7d65c41bcb2a988f8a3/Results/Dynamic%20Formation.jpg)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Failing Scenario
 The scenario of losing an agent.
@@ -133,6 +136,7 @@ To prove that this algorithm is robust in changing the number of agents suddenly
 
 ![12](https://github.com/HabibNaeimi/Swarm-Mobile-Robots-Formation/blob/958b4278b6e43488f689c7d65c41bcb2a988f8a3/Results/Losing%20Agent.jpg)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- References -->
 ## References
