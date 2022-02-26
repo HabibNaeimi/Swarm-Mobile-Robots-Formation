@@ -8,9 +8,9 @@
   <h3 align="center">Swarm Mobile Robots Firmation Control</h3>
 
   <p align="center">
-    Modeling, Trajectory Planning and Swarm Formation Control For Mobile Robots 🎛️🚘
+    Modeling, Path Planning and Swarm Formation Control For Mobile Robots 🎛️🚘
     <br />
-    <b> System Kinematics and Dynamics Model and Controller Design </b>
+    <b> System Kinematics and Dynamics Model and Simulation </b>
     <br />
     <a href="https://github.com/HabibNaeimi/Swarm-Mobile-Robots-Formation"><strong>Explore the docs »</strong></a>
     <br />
@@ -40,13 +40,14 @@
     <li><a href="#Dynamic-formation">Dynamic Formation</a></li> 
     <li><a href="#failing-scenario">Failing Scenario</a></li>    
     <li><a href="#References">References</a></li>
+    <li><a href="#Roadmap">Roadmap</a></li>
 
   </ol>
 </details>
 
 
 ## About The Project
-This repository contains the Simulink implementation of "A Decentralized Cooperative Control Scheme With Obstacle Avoidance for a Team of Mobile Robots" by Hamed Rezaee and Farzaneh Abdollahi. You can find the article in the [References](https://github.com/HabibNaeimi/Swarm-Mobile-Robots-Formation/edit/main/README.md#references) section or use this link:: [IEEE](https://ieeexplore.ieee.org/document/6451251)
+This repository contains the Simulink implementation of "A Decentralized Cooperative Control Scheme With Obstacle Avoidance for a Team of Mobile Robots" by *Hamed Rezaee* and *Farzaneh Abdollahi*. You can find the article in the [References](https://github.com/HabibNaeimi/Swarm-Mobile-Robots-Formation/edit/main/README.md#references) section or use this link:: [IEEE](https://ieeexplore.ieee.org/document/6451251)
 
 This project has been done at the request of *Zobdeh Modiran Rahneshan Soraya Company* in the 2nd *Rahneshan Competition*.
 
@@ -71,9 +72,9 @@ Major softwares/libraries used to this project:
 
 
 ## Algorithm
-This algorithm applies a potential field method to our control strategy to arrange a polygon formation. In this algorithm, the robots consider electric charges, and the method is based on the repulsive forces between electric charges. These forces make agents form on a circle with a defined center and radius. Additionally, these forces make themselves form in a polygon formation on that circle. We can move the formated agents by dragging the center. The center of this circle can be considered as a virtual leader.
+This algorithm applies a potential field method to our decentralized control strategy to arrange a polygon formation. In this algorithm, the robots consider electric charges, and the method is based on the repulsive forces between electric charges. These forces make agents form on a circle with a defined center and radius. Additionally, these forces make themselves form in a polygon formation on that circle. We can move the formated agents by dragging the center. The center of this circle can be considered as a virtual leader.
 
-In this project, we have four agents to form in a regular quadrilateral or square.
+In this project, we have four agents to form in a regular quadrilateral or square. 
 
 ### ِAgents Model Defenition
 **The dynamical equation of the Agents**, which is a *double integrator*, is considered as follow:
@@ -143,4 +144,12 @@ To prove that this algorithm is robust in changing the number of agents suddenly
 [1] *[H. Rezaee, and F. Abdollahi, “A Decentralized Cooperative Control Scheme with Obstacle Avoidance for a Team of Mobile Robots,” IEEE Transactions on Industrial Electronics, vol. 61, pp. 347-354, January 2014.](https://ieeexplore.ieee.org/document/6451251)*
 
 [2] *[V. Bajaj, and S. Rao, “Autonomous Shape Formation and Morphing in a Dynamic Environment by a Swarm of Robots,” Proceedings of The 19th International Conference On Autonomous Agents and Multiagent Systems, pp. 1765-1767, May 2020.](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1765.pdf)*
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Roadmap
+
+The next phase of this project is simulation and implementation of the obstacle avoidance section using the rotational potential field. This section will be added to this repository as soon as complementation.
+
+Meanwhile, see the [open issues](https://github.com/HabibNaeimi/Swarm-Mobile-Robots-Formation/issues) for a full list of proposed features (and known issues).
+
 <p align="right">(<a href="#top">back to top</a>)</p>
