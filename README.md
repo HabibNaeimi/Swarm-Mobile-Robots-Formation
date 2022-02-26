@@ -8,8 +8,7 @@ This algorithm applies a potential field method to our control strategy to arran
 
 **The dynamical equation of the Agents**, which is a double integrator, is considered as follow:
 ```math
-Mx" + Bx' = f_x - k_dx' 
-My" + By' = f_y - k_dy'
+M*x" + B*x' = f_x - k*x' 
+M*y" + B*y' = f_y - k*y'
 ```
-```M: the mass, B: the damper coefficient, f: the control force, k_d: a coefficient considered to control
-the transient response of the robot```
+```M: the mass, B: the damper coefficient, f: the control force, k_d: a coefficient considered to control the transient response of the robot```
