@@ -49,7 +49,7 @@
 ## About The Project
 This repository contains the Simulink implementation of "A Decentralized Cooperative Control Scheme With Obstacle Avoidance for a Team of Mobile Robots" by *Hamed Rezaee* and *Farzaneh Abdollahi*. You can find the article in the [References](https://github.com/HabibNaeimi/Swarm-Mobile-Robots-Formation/edit/main/README.md#references) section or use this link:: [IEEE](https://ieeexplore.ieee.org/document/6451251)
 
-This project has been done at the request of *Zobdeh Modiran Rahneshan Soraya Company* in the 2nd *Rahneshan Competition*.
+This project has been done at the request of *Zobdeh Modiran Rahneshan Soraya Company* in the 2nd *Rahneshan Competition*. A competition held by *Iran's National Elites Foundation* and *Sharif University of Technology*. Our team achived the first place in this competition.
 
 ![image7](https://github.com/HabibNaeimi/Swarm-Mobile-Robots-Formation/blob/958b4278b6e43488f689c7d65c41bcb2a988f8a3/Results/Dynamic%20Formation.jpg)
 
