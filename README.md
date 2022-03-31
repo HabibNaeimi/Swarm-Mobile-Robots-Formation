@@ -5,7 +5,7 @@
 <div align="center">
 
 
-  <h3 align="center">Swarm Mobile Robots Firmation Control</h3>
+  <h3 align="center">Swarm Mobile Robots Formation Control</h3>
 
   <p align="center">
     Modeling, Path Planning and Swarm Formation Control For Mobile Robots 🎛️🚘
